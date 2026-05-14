@@ -4,15 +4,8 @@
 
 ---
 
-## 📱 Screenshots
-
-| Welcome | Dashboard | Project Details |
-|---|---|---|
-| Login / Register / Track | Search, Filter, Dark Mode | Before/After, Budget, Rating |
-
----
-
 ## 🚀 Key Features
+
 
 ### 🏗️ Project Tracking
 - View all ongoing village infrastructure projects
