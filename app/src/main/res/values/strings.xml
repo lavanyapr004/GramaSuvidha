@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Grama-Suvidha</string>
+    <string name="projects_title">Village Projects</string>
+    <string name="panchayat_name">Hosahalli Grama Panchayat</string>
+    <string name="progress_text">Progress: %1$d%%</string>
+    <string name="status_text">Status: %1$s</string>
+    <string name="report_issue">Report Issue</string>
+    <string name="submit_feedback">Submit Feedback</string>
+    <string name="feedback_submitted">Feedback Submitted!</string>
+    <string name="issue_reported">Issue Reported Successfully!</string>
+    <string name="toggle_language">ಕನ್ನಡ</string>
+    <string name="rate_project">Rate this project:</string>
+    
+    <!-- Auth & Welcome Strings -->
+    <string name="welcome_title">Welcome to Grama-Suvidha</string>
+    <string name="welcome_subtitle">Your portal for rural development transparency</string>
+    <string name="vision_title">Our Project Vision</string>
+    <string name="problem_statement_title">The Problem</string>
+    <string name="problem_statement_text">There is often a transparency gap in rural infrastructure. Citizens are usually unaware of local works progress, leading to a lack of community ownership. Grama-Suvidha aims to visualize \"Digital Progress\" for village-level assets.</string>
+    <string name="vision_description">Grama-Suvidha is a transparency-focused project tracker. It creates a \"Digital Notice Board\" that ensures every citizen knows exactly where development stands, showing budgets, timelines, and status updates.</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_create_account">Create Account</string>
+    <string name="track_project_title">Track without Login</string>
+    <string name="enter_tracking_id">Enter Tracking ID (e.g. 1 or 2)</string>
+    <string name="btn_track">Track Status</string>
+    
+    <string name="login_title">Sign In</string>
+    <string name="login_identifier_hint">Email or Phone Number</string>
+    <string name="email_hint">Email ID</string>
+    <string name="phone_hint">Phone Number</string>
+    <string name="password_hint">Password</string>
+    <string name="name_hint">Full Name</string>
+    <string name="register_title">Create an Account</string>
+    <string name="dont_have_account">Don\'t have an account? Sign Up</string>
+    <string name="already_have_account">Already have an account? Log In</string>
+    
+    <!-- Before/After Images -->
+    <string name="before_after_title">Project Site Photos</string>
+    <string name="before_label">BEFORE</string>
+    <string name="after_label">AFTER</string>
+    
+    <string name="budget_text">💰 %1$s</string>
+    <string name="expected_date_text">📅 %1$s</string>
+    <string name="read_more">Read More ➔</string>
+    <string name="impact_title">Our Impact Goals</string>
+    <string name="about_title">About the Project</string>
+    <string name="btn_about_project">Learn About Project ➔</string>
+    <string name="goal_governance">● Enhancing transparency and accountability at the grassroots level.</string>
+    <string name="goal_engagement">● Residents move from passive observers to active \"Progress Pilots\".</string>
+    <string name="goal_quality">● Community peer-monitoring leads to better construction standards.</string>
+
+    <!-- Report Issue Form -->
+    <string name="report_title">Report an Issue</string>
+    <string name="issue_subject_hint">Issue Subject (e.g., Road Quality)</string>
+    <string name="issue_desc_hint">Describe the problem in detail...</string>
+    <string name="issue_category_label">Select Category</string>
+    <string name="issue_priority_label">Priority Level</string>
+    <string name="btn_submit_report">Submit Report</string>
+    <string name="report_success_toast">Your report has been submitted to the Panchayat office.</string>
+    <string name="attach_document">Attach Document</string>
+    <string name="upload_desc">Attach Photo or PDF (Max 5MB)</string>
+    <string name="file_attached">Document Attached!</string>
+    <string name="login_success">Login Successful!</string>
+    <string name="register_success">Account Created Successfully!</string>
+    <string name="error_fill_all">Please fill all fields</string>
+    <string name="error_invalid_tracking">Please enter a valid Tracking ID</string>
+
+    <string name="profile_title">User Profile</string>
+    <string name="role_citizen">Citizen Contributor</string>
+    <string name="my_activity">My Activity</string>
+    <string name="projects_monitored">Projects Monitored</string>
+    <string name="feedback_shared">Feedback Shared</string>
+    <string name="issues_reported_profile">Issues Reported</string>
+    <string name="profile_phone">Phone: +91 98765 43210</string>
+    <string name="logout">Logout</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="profile_updated">Profile Updated Successfully!</string>
+    <string name="member_since">Member Since: %1$s</string>
+
+    <!-- Accessibility & New Features -->
+    <string name="desc_share_project">Share project details</string>
+    <string name="desc_download_report">Download project report</string>
+    <string name="desc_photo_before">Photo of project site before work</string>
+    <string name="desc_photo_after">Photo of project site current status</string>
+    <string name="desc_toggle_theme">Toggle dark or light mode</string>
+    <string name="desc_go_to_profile">Go to user profile</string>
+    <string name="desc_project_thumb">Project thumbnail image</string>
+    <string name="btn_simulate_progress">Simulate Progress</string>
+
+    <!-- Backend Gap Fix Strings -->
+    <string name="login_failed">Invalid credentials. Please register first.</string>
+    <string name="user_already_exists">An account with this email or phone already exists.</string>
+    <string name="progress_simulated">Progress increased by 5%%</string>
+    <string name="progress_already_complete">This project is already 100%% complete!</string>
+    <string name="share_project_via">Share Project via</string>
+</resources>

@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="140dp"
+    android:viewportWidth="200"
+    android:viewportHeight="140">
+
+    <!-- Background -->
+    <path
+        android:fillColor="#E0F2F1"
+        android:pathData="M0,0h200v140h-200z" />
+
+    <!-- Mountain shape -->
+    <path
+        android:fillColor="#80CBC4"
+        android:pathData="M0,140 L60,60 L100,90 L150,40 L200,100 L200,140 Z" />
+
+    <!-- Sun circle -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M155,35 m-15,0 a15,15 0,1 1,30 0 a15,15 0,1 1,-30 0" />
+
+    <!-- Small mountain -->
+    <path
+        android:fillColor="#4DB6AC"
+        android:pathData="M0,140 L40,80 L80,120 L80,140 Z" />
+
+    <!-- Image icon in center -->
+    <path
+        android:fillColor="#009688"
+        android:pathData="M88,58 h24 a4,4 0,0 1,4 4 v16 a4,4 0,0 1,-4 4 h-24 a4,4 0,0 1,-4 -4 v-16 a4,4 0,0 1,4 -4 z" />
+    <path
+        android:fillColor="#E0F2F1"
+        android:pathData="M94,68 m-3,0 a3,3 0,1 1,6 0 a3,3 0,1 1,-6 0" />
+    <path
+        android:fillColor="#E0F2F1"
+        android:pathData="M86,78 L94,70 L100,76 L104,72 L114,82 L114,78 L86,78 Z" />
+</vector>

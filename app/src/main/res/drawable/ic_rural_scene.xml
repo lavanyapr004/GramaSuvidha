@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="60dp"
+    android:viewportWidth="200"
+    android:viewportHeight="60">
+    
+    <!-- Hills -->
+    <path
+        android:fillColor="#E8F5E9"
+        android:pathData="M0,60 Q50,20 100,60 Q150,20 200,60 Z" />
+    
+    <!-- Trees -->
+    <path
+        android:fillColor="#81C784"
+        android:pathData="M30,50 L35,40 L40,50 Z M32,45 L35,35 L38,45 Z" />
+    <path
+        android:fillColor="#81C784"
+        android:pathData="M160,55 L165,45 L170,55 Z M162,50 L165,40 L168,50 Z" />
+        
+    <!-- Hut -->
+    <path
+        android:fillColor="#BCAAA4"
+        android:pathData="M80,60 V50 H100 V60 Z" />
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M78,50 L90,40 L102,50 Z" />
+        
+</vector>

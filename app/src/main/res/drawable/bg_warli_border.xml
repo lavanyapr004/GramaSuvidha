@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="40dp"
+    android:viewportWidth="400"
+    android:viewportHeight="40">
+    
+    <!-- Repeating Warli Pattern -->
+    <path
+        android:fillColor="#80FFFFFF"
+        android:pathData="M10,30L15,20L20,30M15,20H10M12,15A2,2 0,1 1,12 11A2,2 0,0 1,12 15Z" />
+    <path
+        android:fillColor="#80FFFFFF"
+        android:pathData="M50,30L55,20L60,30M55,20H50M52,15A2,2 0,1 1,52 11A2,2 0,0 1,52 15Z" />
+    <path
+        android:fillColor="#80FFFFFF"
+        android:pathData="M90,30L95,20L100,30M95,20H90M92,15A2,2 0,1 1,92 11A2,2 0,0 1,92 15Z" />
+    <path
+        android:fillColor="#80FFFFFF"
+        android:pathData="M130,30L135,20L140,30M135,20H130M132,15A2,2 0,1 1,132 11A2,2 0,0 1,132 15Z" />
+    <path
+        android:fillColor="#80FFFFFF"
+        android:pathData="M170,30L175,20L180,30M175,20H170M172,15A2,2 0,1 1,172 11A2,2 0,0 1,172 15Z" />
+    <path
+        android:fillColor="#80FFFFFF"
+        android:pathData="M210,30L215,20L220,30M215,20H210M212,15A2,2 0,1 1,212 11A2,2 0,0 1,212 15Z" />
+    <path
+        android:fillColor="#80FFFFFF"
+        android:pathData="M250,30L255,20L260,30M255,20H250M252,15A2,2 0,1 1,252 11A2,2 0,0 1,252 15Z" />
+    <path
+        android:fillColor="#80FFFFFF"
+        android:pathData="M290,30L335,20L340,30M335,20H330M332,15A2,2 0,1 1,332 11A2,2 0,0 1,332 15Z" />
+    <path
+        android:fillColor="#80FFFFFF"
+        android:pathData="M370,30L375,20L380,30M375,20H370M372,15A2,2 0,1 1,372 11A2,2 0,0 1,372 15Z" />
+
+</vector>

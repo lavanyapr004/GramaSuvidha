@@ -1,0 +1,40 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Professional Background Gradient Shape -->
+    <path
+        android:pathData="M54,2C25.28,2 2,25.28 2,54C2,82.72 25.28,106 54,106C82.72,106 106,82.72 106,54C106,25.28 82.72,2 54,2Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="54"
+                android:startY="2"
+                android:endX="54"
+                android:endY="106"
+                android:type="linear">
+                <item android:offset="0" android:color="#00695C"/> <!-- Deep Teal -->
+                <item android:offset="1" android:color="#004D40"/> <!-- Darker Teal -->
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Main Icon: Geometric House + Progress Signal -->
+    <!-- The House Roof -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30L24,52L28,52V78H44V62H64V78H80V52L84,52L54,30Z" />
+    
+    <!-- The "Suvidha" Checkmark / Signal inside the house -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M48,54L52,58L60,50L62,52L52,62L46,56L48,54Z" />
+    
+    <!-- Subtle Modern Signal Lines on top -->
+    <path
+        android:fillColor="#80FFFFFF"
+        android:pathData="M44,24H64V28H44V24Z M48,18H60V22H48V18Z" />
+
+</vector>

@@ -1,0 +1,39 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    
+    <!-- Sophisticated Mandala Background -->
+    <path
+        android:fillColor="#FFFDE7"
+        android:pathData="M12,2C6.48,2 2,6.48 2,12C2,17.52 6.48,22 12,22C17.52,22 22,17.52 22,12C22,6.48 17.52,2 12,2Z" />
+    
+    <!-- Banyan Tree (Symbol of Wisdom and Community) -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M12,12C14,12 16,11 16,9C16,7 14,5.5 12,5.5C10,5.5 8,7 8,9C8,11 10,12 12,12Z" />
+    <path
+        android:fillColor="#388E3C"
+        android:pathData="M11,12V18H13V12H11Z" />
+    <path
+        android:fillColor="#1B5E20"
+        android:pathData="M10,18H14V19H10V18Z" />
+
+    <!-- Traditional Village House with Detailed Roof -->
+    <path
+        android:fillColor="#D84315"
+        android:pathData="M16,13L12,9L8,13H16Z" />
+    <path
+        android:fillColor="#FF7043"
+        android:pathData="M15,13V20H9V13H15Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M11.5,16H12.5V20H11.5V16Z" />
+
+    <!-- Digital Signal Dots (Connecting the Village) -->
+    <path
+        android:fillColor="@color/accent"
+        android:pathData="M12,4A1,1 0,1 1,12 2A1,1 0,0 1,12 4Z M18,6A1,1 0,1 1,18 4A1,1 0,0 1,18 6Z M6,6A1,1 0,1 1,6 4A1,1 0,0 1,6 6Z" />
+
+</vector>

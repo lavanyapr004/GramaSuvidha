@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಗ್ರಾಮ-ಸುವಿಧಾ</string>
+    <string name="projects_title">ಗ್ರಾಮದ ಯೋಜನೆಗಳು</string>
+    <string name="panchayat_name">ಹೊಸಹಳ್ಳಿ ಗ್ರಾಮ ಪಂಚಾಯತಿ</string>
+    <string name="progress_text">ಪ್ರಗತಿ: %1$d%%</string>
+    <string name="status_text">ಸ್ಥಿತಿ: %1$s</string>
+    <string name="report_issue">ಸಮಸ್ಯೆಯನ್ನು ವರದಿ ಮಾಡಿ</string>
+    <string name="submit_feedback">ಪ್ರತಿಕ್ರಿಯೆ ಸಲ್ಲಿಸಿ</string>
+    <string name="feedback_submitted">ಪ್ರತಿಕ್ರಿಯೆ ಸಲ್ಲಿಸಲಾಗಿದೆ!</string>
+    <string name="issue_reported">ಸಮಸ್ಯೆ ವರದಿಯಾಗಿದೆ!</string>
+    <string name="toggle_language">English</string>
+    <string name="rate_project">ಈ ಯೋಜನೆಯನ್ನು ರೇಟ್ ಮಾಡಿ:</string>
+    
+    <!-- Before/After Images -->
+    <string name="before_after_title">ಯೋಜನೆ ಸ್ಥಳದ ಫೋಟೋಗಳು</string>
+    <string name="before_label">ಮೊದಲು</string>
+    <string name="after_label">ನಂತರ</string>
+    
+    <!-- Auth & Welcome Strings -->
+    <string name="welcome_title">ಗ್ರಾಮ-ಸುವಿಧಾಕ್ಕೆ ಸ್ವಾಗತ</string>
+    <string name="welcome_subtitle">ಗ್ರಾಮೀಣ ಅಭಿವೃದ್ಧಿ ಪಾರದರ್ಶಕತೆಗಾಗಿ ನಿಮ್ಮ ಪೋರ್ಟಲ್</string>
+    <string name="vision_title">ನಮ್ಮ ಯೋಜನೆಯ ದೃಷ್ಟಿಕೋನ</string>
+    <string name="problem_statement_title">ಸಮಸ್ಯೆ</string>
+    <string name="problem_statement_text">ಗ್ರಾಮೀಣ ಮೂಲಸೌಕರ್ಯದಲ್ಲಿ ಪಾರದರ್ಶಕತೆಯ ಕೊರತೆಯಿದೆ. ಸ್ಥಳೀಯ ಕಾಮಗಾರಿಗಳ ಪ್ರಗತಿಯ ಬಗ್ಗೆ ನಾಗರಿಕರಿಗೆ ಅರಿವಿರುವುದಿಲ್ಲ. ಗ್ರಾಮ-ಸುವಿಧಾ ಗ್ರಾಮ ಮಟ್ಟದ ಆಸ್ತಿಗಳಿಗಾಗಿ \'ಡಿಜಿಟಲ್ ಪ್ರಗತಿ\'ಯನ್ನು ದೃಶ್ಯೀಕರಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ.</string>
+    <string name="vision_description">ಗ್ರಾಮ-ಸುವಿಧಾ ಪಾರದರ್ಶಕತೆ-ಕೇಂದ್ರಿತ ಯೋಜನಾ ಟ್ರ್ಯಾಕರ್ ಆಗಿದೆ. ಇದು ಪ್ರತಿಯೊಬ್ಬ ನಾಗರಿಕನಿಗೂ ಅಭಿವೃದ್ಧಿ ಎಲ್ಲಿದೆ ಎಂಬುದನ್ನು ನಿಖರವಾಗಿ ತಿಳಿಯಲು \'ಡಿಜಿಟಲ್ ಸೂಚನಾ ಫಲಕ\'ವನ್ನು ರಚಿಸುತ್ತದೆ.</string>
+    <string name="btn_login">ಲಾಗಿನ್</string>
+    <string name="btn_create_account">ಖಾತೆ ರಚಿಸಿ</string>
+    <string name="track_project_title">ಲಾಗ್ ಇನ್ ಇಲ್ಲದೆ ಟ್ರ್ಯಾಕ್ ಮಾಡಿ</string>
+    <string name="enter_tracking_id">ಟ್ರ್ಯಾಕಿಂಗ್ ಐಡಿ ನಮೂದಿಸಿ (ಉದಾ. 1 ಅಥವಾ 2)</string>
+    <string name="btn_track">ಸ್ಥಿತಿ ಟ್ರ್ಯಾಕ್ ಮಾಡಿ</string>
+    <string name="login_title">ಸೈನ್ ಇನ್</string>
+    <string name="login_identifier_hint">ಇಮೇಲ್ ಅಥವಾ ಫೋನ್ ಸಂಖ್ಯೆ</string>
+    <string name="email_hint">ಇಮೇಲ್ ಐಡಿ</string>
+    <string name="phone_hint">ಫೋನ್ ಸಂಖ್ಯೆ</string>
+    <string name="password_hint">ಪಾಸ್ವರ್ಡ್</string>
+    <string name="name_hint">ಪೂರ್ಣ ಹೆಸರು</string>
+    <string name="register_title">ಖಾತೆ ರಚಿಸಿ</string>
+    <string name="dont_have_account">ಖಾತೆ ಇಲ್ಲವೇ? ಸೈನ್ ಅಪ್ ಮಾಡಿ</string>
+    <string name="already_have_account">ಈಗಾಗಲೇ ಖಾತೆ ಇದೆಯೇ? ಲಾಗ್ ಇನ್ ಮಾಡಿ</string>
+    
+    <string name="budget_text">💰 %1$s</string>
+    <string name="expected_date_text">📅 %1$s</string>
+    <string name="read_more">ಇನ್ನಷ್ಟು ಓದಿ ➔</string>
+
+    <!-- Impact Goals -->
+    <string name="impact_title">ನಮ್ಮ ಪ್ರಭಾವದ ಗುರಿಗಳು</string>
+    <string name="goal_governance">ತಳಮಟ್ಟದಲ್ಲಿ ಪಾರದರ್ಶಕತೆ ಮತ್ತು ಹೊಣೆಗಾರಿಕೆಯನ್ನು ಹೆಚ್ಚಿಸುವುದು.</string>
+    <string name="goal_engagement">ನಿವಾಸಿಗಳು ನಿಷ್ಕ್ರಿಯ ವೀಕ್ಷಕರಿಂದ ಸಕ್ರಿಯ \"ಪ್ರಗತಿ ಪೈಲಟ್‌ಗಳಾಗಿ\" ಬದಲಾಗುವುದು.</string>
+    <string name="goal_quality">ಸಮುದಾಯದ ಮೇಲ್ವಿಚಾರಣೆಯು ಉತ್ತಮ ನಿರ್ಮಾಣ ಗುಣಮಟ್ಟಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ.</string>
+
+    <!-- Report Issue Form -->
+    <string name="report_title">ಸಮಸ್ಯೆಯನ್ನು ವರದಿ ಮಾಡಿ</string>
+    <string name="issue_subject_hint">ಸಮಸ್ಯೆಯ ವಿಷಯ (ಉದಾ. ರಸ್ತೆ ಗುಣಮಟ್ಟ)</string>
+    <string name="issue_desc_hint">ಸಮಸ್ಯೆಯನ್ನು ವಿವರವಾಗಿ ವಿವರಿಸಿ...</string>
+    <string name="btn_submit_report">ವರದಿ ಸಲ್ಲಿಸಿ</string>
+    <string name="report_success_toast">ನಿಮ್ಮ ವರದಿಯನ್ನು ಗ್ರಾಮ ಪಂಚಾಯಿತಿ ಕಚೇರಿಗೆ ಸಲ್ಲಿಸಲಾಗಿದೆ.</string>
+    <string name="attach_document">ದಾಖಲೆ ಲಗತ್ತಿಸಿ</string>
+    <string name="upload_desc">ಫೋಟೋ ಅಥವಾ ಪಿಡಿಎಫ್ ಲಗತ್ತಿಸಿ (ಗರಿಷ್ಠ 5MB)</string>
+    <string name="file_attached">ದಾಖಲೆ ಲಗತ್ತಿಸಲಾಗಿದೆ!</string>
+    <string name="login_success">ಲಾಗಿನ್ ಯಶಸ್ವಿಯಾಗಿದೆ!</string>
+    <string name="register_success">ಖಾತೆಯನ್ನು ಯಶಸ್ವಿಯಾಗಿ ರಚಿಸಲಾಗಿದೆ!</string>
+    <string name="error_fill_all">ದಯವಿಟ್ಟು ಎಲ್ಲಾ ಕ್ಷೇತ್ರಗಳನ್ನು ಭರ್ತಿ ಮಾಡಿ</string>
+    <string name="error_invalid_tracking">ದಯವಿಟ್ಟು ಮಾನ್ಯವಾದ ಟ್ರ್ಯಾಕಿಂಗ್ ಐಡಿ ನಮೂದಿಸಿ</string>
+    
+    <string name="profile_title">ಬಳಕೆದಾರರ ಪ್ರೊಫೈಲ್</string>
+    <string name="role_citizen">ನಾಗರಿಕ ಕೊಡುಗೆದಾರ</string>
+    <string name="my_activity">ನನ್ನ ಚಟುವಟಿಕೆ</string>
+    <string name="projects_monitored">ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿದ ಯೋಜನೆಗಳು</string>
+    <string name="feedback_shared">ಹಂಚಿಕೊಂಡ ಪ್ರತಿಕ್ರಿಯೆ</string>
+    <string name="issues_reported_profile">ವರದಿ ಮಾಡಿದ ಸಮಸ್ಯೆಗಳು</string>
+    <string name="profile_phone">ಫೋನ್: +91 98765 43210</string>
+    <string name="logout">ಲಾಗ್ ಔಟ್</string>
+    <string name="edit_profile">ಪ್ರೊಫೈಲ್ ಎಡಿಟ್ ಮಾಡಿ</string>
+    <string name="save_changes">ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸಿ</string>
+    <string name="profile_updated">ಪ್ರೊಫೈಲ್ ಯಶಸ್ವಿಯಾಗಿ ನವೀಕರಿಸಲಾಗಿದೆ!</string>
+    <string name="member_since">ಸದಸ್ಯತ್ವದ ಅವಧಿ: %1$s</string>
+    <string name="about_title">ಯೋಜನೆಯ ಬಗ್ಗೆ</string>
+    <string name="btn_about_project">ಯೋಜನೆಯ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ ➔</string>
+
+    <!-- New Strings for recommended updates -->
+    <string name="desc_share_project">ಯೋಜನೆಯ ವಿವರಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="desc_download_report">ಯೋಜನೆಯ ವರದಿಯನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ</string>
+    <string name="desc_photo_before">ಕೆಲಸಕ್ಕೆ ಮೊದಲು ಯೋಜನಾ ಸ್ಥಳದ ಫೋಟೋ</string>
+    <string name="desc_photo_after">ಯೋಜನಾ ಸ್ಥಳದ ಪ್ರಸ್ತುತ ಸ್ಥಿತಿಯ ಫೋಟೋ</string>
+    <string name="btn_simulate_progress">ಪ್ರಗತಿಯನ್ನು ಅನುಕರಿಸಿ</string>
+
+    <!-- Backend Gap Fix Strings -->
+    <string name="login_failed">ಅಮಾನ್ಯ ರುಜುವಾತುಗಳು. ದಯವಿಟ್ಟು ಮೊದಲು ನೋಂದಾಯಿಸಿ.</string>
+    <string name="user_already_exists">ಈ ಇಮೇಲ್ ಅಥವಾ ಫೋನ್‌ನೊಂದಿಗೆ ಖಾತೆ ಈಗಾಗಲೇ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ.</string>
+    <string name="progress_simulated">ಪ್ರಗತಿ 5%% ಹೆಚ್ಚಾಗಿದೆ</string>
+    <string name="progress_already_complete">ಈ ಯೋಜನೆ ಈಗಾಗಲೇ 100%% ಪೂರ್ಣಗೊಂಡಿದೆ!</string>
+    <string name="issue_category_label">ವರ್ಗವನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="issue_priority_label">ಆದ್ಯತೆ ಮಟ್ಟ</string>
+</resources>

@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Main Icon: Geometric House (Village Infrastructure) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30L24,52L28,52V78H44V62H64V78H80V52L84,52L54,30Z" />
+    
+    <!-- The "Suvidha" Checkmark / Service Monitoring Signal -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M48,54L52,58L60,50L62,52L52,62L46,56L48,54Z" />
+    
+    <!-- Digital Connectivity Elements -->
+    <path
+        android:fillColor="#80FFFFFF"
+        android:pathData="M44,24H64V28H44V24Z M48,18H60V22H48V18Z" />
+
+</vector>
